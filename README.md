@@ -13,3 +13,9 @@
 对于手写数据训练情况：
 
 ![image](https://user-images.githubusercontent.com/50074223/177594473-9c16927b-7ddf-4ef3-b464-2dc2389ff47a.png)
+
+原始项目数量过多，这里只拉取了主要py文件
+
+项目结构如下所示：
+
+<img width="681" alt="image" src="https://user-images.githubusercontent.com/50074223/177595507-1b979df6-c6d6-40bd-9d58-4b4fc73f290b.png">
